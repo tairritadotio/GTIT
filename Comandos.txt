@@ -1,0 +1,85 @@
+
+           "Sistema quantas horas",
+           "Quantas horas",
+           "Q T R Sistema"
+            
+      
+           "Sistema que dia é hoje"
+            
+        
+           "Q A P Sistema"
+        
+           "T K S descançar",
+           "Para com isso",
+           "Descansa Sistema"
+       
+        // Comandos tamanho da janela
+        
+           "Minimizar"
+       
+           "Maximizar"
+        
+           "Tamanho normal"
+        
+        // Comando da voz
+        
+           "Alterar voz"
+      
+        // Abrir navegador e video do VS
+       
+            "Navegador",
+            "Video",
+            
+            
+            
+      
+        //Abrir explorador de arquivos
+        
+            "Abrir arquivo"
+        
+        // Códigos Q, numericos e alfabeto
+        
+            "Sistema código Q"
+       
+            "Sistema tabela de números"
+        
+            "Sistema código do alfabeto"
+      
+        // Comando das conversas troll
+        
+            "Sistema Cala a boca",
+            "Cala a boca"
+       
+            "Mas você vai junto"
+        
+            "Sistema eu sou bonito"
+        
+        // Abir programas
+        
+            "Sistema abre o v s code",
+            "Abrir V S Code"
+       
+            "Sistema abre o visual studio",
+            "Abrir Visual Studio"
+        
+            "Abrir bloco de notas",
+            "Abrir bloco de nota",
+            "Fazer anotações"
+        
+            "Fechar bloco de notas",
+            "Fechar anotações"
+        
+            "Abrir google",
+            "Fazer pesquiza no google",
+            "Google",
+            "Visualizar google"
+        
+            "Fechar google",
+            "fechar edge",
+            "Fechar internet"
+       
+            "Abrir internet",
+            "Internet",
+            "Sistema abre o Edge",
+            "Quero acessar a internet"
+       
