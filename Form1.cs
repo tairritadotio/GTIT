@@ -19,7 +19,7 @@ namespace GTIT
     public partial class Form1 : Form
     {
         private SpeechRecognitionEngine engine; // Variavel de voz 
-        private bool isShymtListering = true;
+        private bool isGTITListering = true;
         private SelecVoz selectVoice = null;
         private SpeechSynthesizer synthesizer = new SpeechSynthesizer(); //Sintetizador
         private Browser browser;
@@ -116,15 +116,15 @@ namespace GTIT
                 if(GrammarRules.GTITStopListening.Any(x => x == speech))
                 {
                     r.setresposta("mandou parar");
-                    isShymtListering = false;
+                    isGTITListering = false;
                     Speak("Q S L vou descansar, se precisar é só chamar");//, "Tá bem, desliguei", "Ok quando quiser é so chamar");
                 }
                 else if (GrammarRules.GTITStartListening.Any(x => x == speech))
                 {
                     r.setresposta("mandou continuar");
-                    isShymtListering = true;
+                    isGTITListering = true;
                     Speak("Q A P, Q R V");//, "Pronta pra te atender", "Tava dormindo, diga o que mandas");
-                } else if (isShymtListering == true)
+                } else if (isGTITListering == true)
                 {
                     switch (e.Result.Grammar.Name)
                     {
