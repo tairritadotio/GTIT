@@ -32,11 +32,11 @@ namespace GTIT
         #region
         private void speakStarted(object s, SpeakStartedEventArgs e)
         {
-            LBLShmyt.Text = "Sistema: -";
+            LBLGTIT.Text = "Sistema: -";
         }
         private void speakProgress(object s, SpeakProgressEventArgs e)
         {
-            LBLShmyt.Text += e.Text + " ";
+            LBLGTIT.Text += e.Text + " ";
         }
         
         
